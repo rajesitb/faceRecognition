@@ -9,6 +9,15 @@ from django.shortcuts import render
 import face_recognition
 import numpy as np
 import cv2 as cv
+'''
+echo "# faceRecognition" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rajesitb/faceRecognition.git
+git push -u origin main
+'''
 
 # Create your views here.
 
